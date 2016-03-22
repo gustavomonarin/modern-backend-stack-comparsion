@@ -1,1 +1,1 @@
-# SpringBoot vs nodeJS(Restify) vs Vert.x(java) vs Scal(spray?)
+# SpringBoot vs nodeJS(Restify) vs Vert.x(java) vs Scala(spray?)
