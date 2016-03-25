@@ -1,4 +1,6 @@
 # Intro
+
+[![Join the chat at https://gitter.im/gustavomonarin/modern-backend-stack-comparsion](https://badges.gitter.im/gustavomonarin/modern-backend-stack-comparsion.svg)](https://gitter.im/gustavomonarin/modern-backend-stack-comparsion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Languages, frameworks and even archtectures pop ups constantly. If you are a passionate developer, probably you spend hours per week reading about new languages, new frameworks and archtectures from discussions on twitter, to blogs, portals and books. 
 
 However, many times as a developer you may feel lost, or at least not able to really have good opnion, once you will not be able to have a fair comparison between the different languages/frameworks and archtectures because you will read them solving different problems, or focused only in performance, or only talking about the in a bubble of words without considering some interesting alternatives.
